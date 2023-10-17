@@ -1,0 +1,12 @@
+bus,p_nom,p_min_pu,type
+St Fergus,0.0,1,Imports
+Grangemouth,0.0,1,Imports
+Teesside,0.0,1,Imports
+Humberside,0.0,1,Imports
+Theddlethorpe,0.0,1,Imports
+Merseyside,0.0,1,Imports
+Barrow,0.0,1,Imports
+Bacton,0.0,1,Imports
+Grain LNG,0.0,1,Imports
+Southampton,0.0,1,Imports
+South Wales,0.0,1,Imports

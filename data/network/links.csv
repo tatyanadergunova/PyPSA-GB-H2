@@ -1,0 +1,16 @@
+name,bus0,bus1,carrier,p_nom,p_min_pu,p_nom_extendable,length,marginal_cost
+SGN-1,St Fergus,Grangemouth,Hydrogen,1000,-1,TRUE,224.2492997,0.4
+SGN-2,Grangemouth,Teesside,Hydrogen,1000,-1,TRUE,313.7427003,0.4
+EastCoast-1,Teesside,Humberside,Hydrogen,1000,-1,TRUE,133.2,0.4
+EastCoast-2,Humberside,Theddlethorpe,Hydrogen,1000,-1,TRUE,65.508,0.4
+EastCoast-3,Humberside,Sheffield-B/L,Hydrogen,1000,-1,TRUE,90.348,0.4
+EastCoast-4,Sheffield-B/L,Merseyside,Hydrogen,1000,-1,TRUE,89.532,0.4
+EastCoast-5,Sheffield-B/L,Northampton-B/L,Hydrogen,1000,-1,TRUE,162.492,0.4
+CapitalHydrogen-1,Northampton-B/L,Bacton,Hydrogen,1000,-1,TRUE,204.66,0.4
+CapitalHydrogen-2,Northampton-B/L,Luton-B/L,Hydrogen,1000,-1,TRUE,70.56,0.4
+W&WU-1,Northampton-B/L,South Wales,Hydrogen,1000,-1,TRUE,382.944,0.4
+CapitalHydrogen-3,Luton-B/L,Grain LNG,Hydrogen,1000,-1,TRUE,112.488,0.4
+CapitalHydrogen-4,Luton-B/L,Southampton,Hydrogen,1000,-1,TRUE,159.012,0.4
+Dummy-1,East Yorkshire,Humberside,Hydrogen,1000,-1,TRUE,60,0.4
+Dummy-2,Cheshire Basin,Sheffield-B/L,Hydrogen,1000,-1,TRUE,105.6,0.4
+Dummy-3,Wessex Basin,Southampton,Hydrogen,1000,-1,TRUE,81.6,0.4

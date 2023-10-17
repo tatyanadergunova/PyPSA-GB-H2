@@ -1,0 +1,12 @@
+bus,p_nom,p_min_pu,type
+St Fergus,0.0,1,Nuclear Electrolysis
+Grangemouth,0.0,1,Nuclear Electrolysis
+Teesside,0.0,1,Nuclear Electrolysis
+Humberside,0.0,1,Nuclear Electrolysis
+Theddlethorpe,0.0,1,Nuclear Electrolysis
+Merseyside,570.7762557077625,1,Nuclear Electrolysis
+Barrow,0.0,1,Nuclear Electrolysis
+Bacton,570.7762557077625,1,Nuclear Electrolysis
+Grain LNG,570.7762557077625,1,Nuclear Electrolysis
+Southampton,0.0,1,Nuclear Electrolysis
+South Wales,570.7762557077625,1,Nuclear Electrolysis

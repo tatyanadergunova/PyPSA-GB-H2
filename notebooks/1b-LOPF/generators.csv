@@ -1,0 +1,67 @@
+name,carrier,type,bus,p_nom,p_max_pu,p_min_pu
+Biomass gasification: St Fergus,Hydrogen,Biomass gasification,St Fergus,0.0,1,1
+Biomass gasification: Grangemouth,Hydrogen,Biomass gasification,Grangemouth,0.0,1,1
+Biomass gasification: Teesside,Hydrogen,Biomass gasification,Teesside,0.0,1,1
+Biomass gasification: Humberside,Hydrogen,Biomass gasification,Humberside,0.0,1,1
+Biomass gasification: Theddlethorpe,Hydrogen,Biomass gasification,Theddlethorpe,161.7342603083137,1,1
+Biomass gasification: Merseyside,Hydrogen,Biomass gasification,Merseyside,0.0,1,1
+Biomass gasification: Barrow,Hydrogen,Biomass gasification,Barrow,0.0,1,1
+Biomass gasification: Bacton,Hydrogen,Biomass gasification,Bacton,161.7342603083137,1,1
+Biomass gasification: Grain LNG,Hydrogen,Biomass gasification,Grain LNG,161.7342603083137,1,1
+Biomass gasification: Southampton,Hydrogen,Biomass gasification,Southampton,161.7342603083137,1,1
+Biomass gasification: South Wales,Hydrogen,Biomass gasification,South Wales,161.7342603083137,1,1
+Imports: St Fergus,Hydrogen,Imports,St Fergus,0.0,1,1
+Imports: Grangemouth,Hydrogen,Imports,Grangemouth,1826.48401826484,1,1
+Imports: Teesside,Hydrogen,Imports,Teesside,0.0,1,1
+Imports: Humberside,Hydrogen,Imports,Humberside,0.0,1,1
+Imports: Theddlethorpe,Hydrogen,Imports,Theddlethorpe,0.0,1,1
+Imports: Merseyside,Hydrogen,Imports,Merseyside,0.0,1,1
+Imports: Barrow,Hydrogen,Imports,Barrow,0.0,1,1
+Imports: Bacton,Hydrogen,Imports,Bacton,1826.48401826484,1,1
+Imports: Grain LNG,Hydrogen,Imports,Grain LNG,0.0,1,1
+Imports: Southampton,Hydrogen,Imports,Southampton,0.0,1,1
+Imports: South Wales,Hydrogen,Imports,South Wales,0.0,1,1
+Networked Electrolysis: St Fergus,Hydrogen,Networked Electrolysis,St Fergus,7622.467436828862,1,0
+Networked Electrolysis: Grangemouth,Hydrogen,Networked Electrolysis,Grangemouth,7054.110202625975,1,0
+Networked Electrolysis: Teesside,Hydrogen,Networked Electrolysis,Teesside,3707.020296426537,1,0
+Networked Electrolysis: Humberside,Hydrogen,Networked Electrolysis,Humberside,5404.210311657963,1,0
+Networked Electrolysis: Theddlethorpe,Hydrogen,Networked Electrolysis,Theddlethorpe,0.0,1,0
+Networked Electrolysis: Merseyside,Hydrogen,Networked Electrolysis,Merseyside,3770.073795444423,1,0
+Networked Electrolysis: Barrow,Hydrogen,Networked Electrolysis,Barrow,0.0,1,0
+Networked Electrolysis: Bacton,Hydrogen,Networked Electrolysis,Bacton,6300.09544353709,1,0
+Networked Electrolysis: Grain LNG,Hydrogen,Networked Electrolysis,Grain LNG,837.2103480708172,1,0
+Networked Electrolysis: Southampton,Hydrogen,Networked Electrolysis,Southampton,552.5938594484159,1,0
+Networked Electrolysis: South Wales,Hydrogen,Networked Electrolysis,South Wales,3154.426436978121,1,0
+Non-networked Electrolysis: St Fergus,Hydrogen,Non-networked Electrolysis,St Fergus,5604.14029769935,1,0
+Non-networked Electrolysis: Grangemouth,Hydrogen,Non-networked Electrolysis,Grangemouth,5604.14029769935,1,0
+Non-networked Electrolysis: Teesside,Hydrogen,Non-networked Electrolysis,Teesside,0.0,1,0
+Non-networked Electrolysis: Humberside,Hydrogen,Non-networked Electrolysis,Humberside,0.0,1,0
+Non-networked Electrolysis: Theddlethorpe,Hydrogen,Non-networked Electrolysis,Theddlethorpe,0.0,1,0
+Non-networked Electrolysis: Merseyside,Hydrogen,Non-networked Electrolysis,Merseyside,5604.14029769935,1,0
+Non-networked Electrolysis: Barrow,Hydrogen,Non-networked Electrolysis,Barrow,0.0,1,0
+Non-networked Electrolysis: Bacton,Hydrogen,Non-networked Electrolysis,Bacton,0.0,1,0
+Non-networked Electrolysis: Grain LNG,Hydrogen,Non-networked Electrolysis,Grain LNG,0.0,1,0
+Non-networked Electrolysis: Southampton,Hydrogen,Non-networked Electrolysis,Southampton,0.0,1,0
+Non-networked Electrolysis: South Wales,Hydrogen,Non-networked Electrolysis,South Wales,0.0,1,0
+Nuclear Electrolysis: St Fergus,Hydrogen,Nuclear Electrolysis,St Fergus,0.0,1,1
+Nuclear Electrolysis: Grangemouth,Hydrogen,Nuclear Electrolysis,Grangemouth,0.0,1,1
+Nuclear Electrolysis: Teesside,Hydrogen,Nuclear Electrolysis,Teesside,0.0,1,1
+Nuclear Electrolysis: Humberside,Hydrogen,Nuclear Electrolysis,Humberside,0.0,1,1
+Nuclear Electrolysis: Theddlethorpe,Hydrogen,Nuclear Electrolysis,Theddlethorpe,0.0,1,1
+Nuclear Electrolysis: Merseyside,Hydrogen,Nuclear Electrolysis,Merseyside,0.0,1,1
+Nuclear Electrolysis: Barrow,Hydrogen,Nuclear Electrolysis,Barrow,0.0,1,1
+Nuclear Electrolysis: Bacton,Hydrogen,Nuclear Electrolysis,Bacton,0.0,1,1
+Nuclear Electrolysis: Grain LNG,Hydrogen,Nuclear Electrolysis,Grain LNG,0.0,1,1
+Nuclear Electrolysis: Southampton,Hydrogen,Nuclear Electrolysis,Southampton,0.0,1,1
+Nuclear Electrolysis: South Wales,Hydrogen,Nuclear Electrolysis,South Wales,0.0,1,1
+Methane Reformation with CCUS: St Fergus,Hydrogen,Methane Reformation with CCUS,St Fergus,424.00521852576645,1,1
+Methane Reformation with CCUS: Grangemouth,Hydrogen,Methane Reformation with CCUS,Grangemouth,424.00521852576645,1,1
+Methane Reformation with CCUS: Teesside,Hydrogen,Methane Reformation with CCUS,Teesside,424.00521852576645,1,1
+Methane Reformation with CCUS: Humberside,Hydrogen,Methane Reformation with CCUS,Humberside,424.00521852576645,1,1
+Methane Reformation with CCUS: Theddlethorpe,Hydrogen,Methane Reformation with CCUS,Theddlethorpe,424.00521852576645,1,1
+Methane Reformation with CCUS: Merseyside,Hydrogen,Methane Reformation with CCUS,Merseyside,424.00521852576645,1,1
+Methane Reformation with CCUS: Barrow,Hydrogen,Methane Reformation with CCUS,Barrow,0.0,1,1
+Methane Reformation with CCUS: Bacton,Hydrogen,Methane Reformation with CCUS,Bacton,424.00521852576645,1,1
+Methane Reformation with CCUS: Grain LNG,Hydrogen,Methane Reformation with CCUS,Grain LNG,0.0,1,1
+Methane Reformation with CCUS: Southampton,Hydrogen,Methane Reformation with CCUS,Southampton,0.0,1,1
+Methane Reformation with CCUS: South Wales,Hydrogen,Methane Reformation with CCUS,South Wales,0.0,1,1
